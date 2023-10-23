@@ -68,3 +68,23 @@ body {
     text-align: center;
     width: 100%;
 }
+
+.menu-desktop {
+    background-color: #fff;
+    box-shadow: 0 1px 5px #adadad2e;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    padding: 21px 275px 25px;
+    top: 0;
+}
+
+.menu-desktop a {
+    color: #191919;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    margin: auto 30px;
+    transition: color .3s;
+    font-family: Poppins;
+}
