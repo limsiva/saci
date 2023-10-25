@@ -57,6 +57,7 @@ body {
 .imagem-bloco span {
     font-family: Times New Roman, Times, serif;
     font-size: 11pt;
+    line-height: 1;
 }
 
 .citacao-longa {
@@ -142,4 +143,47 @@ a {
     line-height: 32px;
     font-weight: 400;
     color: #212529;
+    text-align: justify;
+}
+
+.footer {
+    background: url(./img/brasao-rodape.png) no-repeat left;
+    background-size: contain;
+    width: 980px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 175px;
+}
+
+.footer .infos {
+    padding-bottom: 0;
+    border-width: 0 2px 0 0;
+    padding-right: 15px;
+    margin-left: 170px;
+}
+
+.footer p {
+    margin: 5px 0;
+}
+
+.foot {
+    width: 100%;
+    background-color: #ededed;
+    padding: 50px 0;
+}
+
+.antprox {
+    display: inline-flex;
+    width: 100%;
+}
+
+.antprox .anterior, .antprox .proximo {
+    width: 50%;
+    font-family: Merriweather,Times New Roman,Times,serif;;
+}
+
+.antprox .proximo {
+    text-align: right;
 }
