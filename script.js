@@ -5,6 +5,7 @@ var encontros = [
     {"title": "4. Trabalho em Equipe e Técnicas Etnográficas - 21/09/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_4.html"},
     {"title": "5. IV Seminário de Saúde Coletiva - 28/09/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_5.html"},
     {"title": "6. Passeio Exploratório - 05/10/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_6.html"},
+    {"title": "7. Mapa do Território - 19/10/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_7.html"},
 ]
 
 for (i = 0; i<= encontros.length; i++) {
