@@ -75,7 +75,6 @@ body {
 .menu-desktop {
     background-color: #fff;
     box-shadow: 0 1px 5px #adadad2e;
-    width: 100%;
     z-index: 5;
     padding: 21px 275px 25px;
     top: 0;
@@ -91,7 +90,7 @@ body {
     font-family: Poppins;
 }
 
-.indice {
+.memorial-style {
     width: 960px;
     margin: 0 auto;
     padding: 24px 0;
@@ -126,7 +125,7 @@ a {
     font-family: Merriweather;
 }
 
-.memorial-style .h4 {
+.memorial-style h4 {
     margin-top: 0;
     margin-bottom: 0.5rem;
     font-weight: 500;
@@ -135,4 +134,12 @@ a {
 
 .memorial-style h4 {
     font-size: 1.5rem;
+}
+
+.memorial-style p {
+    font-family: Merriweather,Times New Roman,Times,serif;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #212529;
 }
