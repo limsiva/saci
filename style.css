@@ -35,6 +35,11 @@ body {
 .banner h3,
 .banner h4 {
     text-shadow: 1px 1px 10px black;
+    font-family: sans-serif;
+}
+
+h1 {
+    line-height: 1.5;
 }
 
 .loremipsum {
