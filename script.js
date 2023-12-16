@@ -8,10 +8,10 @@ var encontros = [
     {"title": "7. Mapa do Território - 19/10/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_7.html"},
     {"title": "8. Saúde e seus determinantes, e desigualdades no contexto da saúde da população - 26/10/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_8.html"},
     {"title": "9. Conselho Comunitário do Soledade I - 09/11/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_9.html"},
-    {"title": "10. -", "uri": "https://limsiva.github.io/saci/encontros/dia_10.html"},
-    {"title": "11. -", "uri": "https://limsiva.github.io/saci/encontros/dia_11.html"},
-    {"title": "12. -", "uri": "https://limsiva.github.io/saci/encontros/dia_12.html"},
-    {"title": "13. -", "uri": "https://limsiva.github.io/saci/encontros/dia_13.html"},
+    {"title": "10. Educação em saúde e reflexões sobre Experiências de Educação em Saúde - 16/11/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_10.html"},
+    {"title": "11. Tenda do Conto - 23/11/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_11.html"},
+    {"title": "12. Planejamento estratégico, elaboração e apresentação do Produto de Intervenção - 30/11/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_12.html"},
+    {"title": "13. Apresentação do Produto/ação de Intervenção - 07/12/2023", "uri": "https://limsiva.github.io/saci/encontros/dia_13.html"},
 ]
 
 for (i = 0; i<= encontros.length; i++) {
